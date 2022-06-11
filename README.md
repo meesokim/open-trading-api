@@ -1,3 +1,5 @@
+한국투자증권 API를 기반으로 하여 활용하기 쉽게 개선한 버젼을 만드는 것이 목적.
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=한국투자증권%20KIS%20Developers&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Open%20Trading%20API%20Docs&descAlignY=51&descAlign=62)
 
 
